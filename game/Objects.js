@@ -9,7 +9,7 @@ class ObjectType {
     }
 
     show() {
-        strokeWeight(15)
+        strokeWeight(10)
         stroke(255,150,150)
         point(this.position.x,this.position.y)
     }
